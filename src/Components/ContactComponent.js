@@ -31,7 +31,7 @@ const ContactComponent = () => {
               </Box>
             </Grid>
             <Grid item xs={12} sm={6} sx={{ textAlign: 'center', pb: 2 }}>
-              <img src="https://avatars.githubusercontent.com/u/84129308?v=4" alt="My Image" style={{ width: '200px', borderRadius: '50%', marginBottom: '20px' }} />
+              <img src="https://avatars.githubusercontent.com/u/84129308?v=4" alt="My Avtar" style={{ width: '200px', borderRadius: '50%', marginBottom: '20px' }} />
               <Typography variant="body1">Rashid Hussain</Typography>
               <Typography variant="body1">Software Developer</Typography>
             </Grid>
